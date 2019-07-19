@@ -56,6 +56,7 @@ Outline:
         * Write a docker-compose file that contains both services
 * REPRODUCIBILITY
     - The environment is more stable now
+    - The environment is more controllable now (you can simulate better)
     - Onboarding is easier
     - Integration testing is easier
     - Unit testing is easier
