@@ -1,5 +1,6 @@
 # Superfund Remediation
 Notes for a talk about best practices around containerizing python applications
+![Python Superfund Site](https://imgs.xkcd.com/comics/python_environment.png)
 
 Title:
 ------
