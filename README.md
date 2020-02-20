@@ -12,6 +12,10 @@ PyColorado 2019
 Sunday, 9/8 : 9:30am - 10:10am
 Denver, CO
 
+Video:
+-----------
+https://www.youtube.com/watch?v=eNn5zm9VkFA
+
 Talk Format:
 ------------
 Talk - 30 minutes
