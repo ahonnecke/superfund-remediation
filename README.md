@@ -12,6 +12,10 @@ PyColorado 2019
 Sunday, 9/8 : 9:30am - 10:10am
 Denver, CO
 
+Video:
+-----------
+https://www.youtube.com/watch?v=eNn5zm9VkFA
+
 Talk Format:
 ------------
 Talk - 30 minutes
@@ -25,7 +29,11 @@ Who and Why (Audience):
 -----------------------
 This presentation will go over how to use venv, pipenv, docker and docker-compose to safely and reproducible wrap a small application in a docker container, and place other services in there with it so that you can move local dependencies out of the README (install postgresql version 8.1) and into a codified reproducible, ephemeral (start up from scratch and tear it down in seconds)
 
-This allows for 1. Faster on-boarding (just install docker and go!) 2. Makes testing edge cases easier (how does your application behave when the database host goes away) 3. Allows you to save the build arguments in a readable manner 4. Consistent environments across the entire team
+This allows for 
+1. Faster on-boarding (just install docker and go!) 
+2. Makes testing edge cases easier (how does your application behave when the database host goes away) 
+3. Allows you to save the build arguments in a readable manner 
+4. Consistent environments across the entire team
 
 
 Outline:
